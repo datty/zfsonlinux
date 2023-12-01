@@ -1,4 +1,4 @@
-zfs-linux (2.1.14-pve1) bookworm; urgency=medium
+zfs-linux (2.1.14-pve1) bullseye; urgency=medium
 
   * update ZFS to 2.1.14
 
