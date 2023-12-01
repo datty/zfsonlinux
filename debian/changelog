@@ -1,3 +1,9 @@
+zfs-linux (2.1.14-pve1) bookworm; urgency=medium
+
+  * update ZFS to 2.1.14
+
+ -- Proxmox Support Team <support@proxmox.com>  Fri, 01 Dec 2023 13:47:16 +0100
+
 zfs-linux (2.1.13-pve1) bookworm; urgency=medium
 
   * update ZFS to 2.1.13
