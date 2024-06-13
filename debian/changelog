@@ -1,3 +1,10 @@
+zfs-linux (2.2.99-pve1) bookworm; urgency=medium
+
+  * Non-maintainer upload.
+  * Switch to zfs master @ 162cc80b8144698b44b5b168dc1853341277de10
+
+ -- root <datty.wtb@gmail.com>  Tue, 21 May 2024 15:02:54 +0100
+
 zfs-linux (2.2.3-pve2) bookworm; urgency=medium
 
   * fix #4835: order zfs-import@ before -cache/-scan
